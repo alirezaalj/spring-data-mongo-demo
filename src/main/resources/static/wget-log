@@ -1,0 +1,6 @@
+--2021-05-11 15:45:24--  http://minio:9000/file-share/limon-cloud-gatway-demo-0.0.1-demo.jar?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving minio (minio)... 127.0.0.1
+Connecting to minio (minio)|127.0.0.1|:9000... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2021-05-11 15:45:24 ERROR 403: Forbidden.
+
